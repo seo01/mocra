@@ -14,4 +14,4 @@ Marked-up OCR-A
 
 MOCRA (pronounced mock-er) is a simple to use, flexible, user friendly alternative to QR codes. 
 
-(MOCRA is coming)[http://numenore.co.uk/thoughts#qrcodes]
+[MOCRA is coming](http://numenore.co.uk/thoughts#qrcodes)
